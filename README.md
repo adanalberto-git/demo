@@ -24,6 +24,9 @@ To work with this project, you will need the following tools:
   pip3 install numpy scikit-learn pandas matplotlib
   ```
   **numpy**: A package for numerical computing in Python, providing support for arrays and matrices, and mathematical functions to operate on them.
+  
   **scikit-learn**: A machine learning library that includes tools for classification, regression, clustering, and more.
+  
   **pandas**: A powerful data manipulation and analysis library that provides data structures like DataFrame to handle structured data.
+  
   **matplotlib**: A plotting library for creating static, animated, and interactive visualizations in Python.
