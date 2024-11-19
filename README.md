@@ -9,21 +9,21 @@ To work with this project, you will need the following tools:
 
 2. **Python 3**: This project is developed in **Python 3**. Make sure you have the latest version of Python 3 installed on your system. You can check if Python is already installed by running the following command in your terminal or command prompt:
 
-```bash
-python --version
-```
-If you need to install Python, you can download it from the [official Python website](https://www.python.org/).
+  ```bash
+  python --version
+  ```
+  If you need to install Python, you can download it from the [official Python website](https://www.python.org/).
 
 3. **Recommended Extensions for Visual Studio Code**:
 
-- **Python**: For syntax highlighting, debugging, and running Python scripts.
-- **Pylance**: For improved autocompletion and error detection.
+  - **Python**: For syntax highlighting, debugging, and running Python scripts.
+  - **Pylance**: For improved autocompletion and error detection.
 
 4. **Install the Required Packages**: To install the required dependencies for this project, use the following command to install the necessary Python packages:
-```bash
-pip3 install numpy scikit-learn pandas matplotlib
-```
-**numpy**: A package for numerical computing in Python, providing support for arrays and matrices, and mathematical functions to operate on them.
-**scikit-learn**: A machine learning library that includes tools for classification, regression, clustering, and more.
-**pandas**: A powerful data manipulation and analysis library that provides data structures like DataFrame to handle structured data.
-**matplotlib**: A plotting library for creating static, animated, and interactive visualizations in Python.
+  ```bash
+  pip3 install numpy scikit-learn pandas matplotlib
+  ```
+  **numpy**: A package for numerical computing in Python, providing support for arrays and matrices, and mathematical functions to operate on them.
+  **scikit-learn**: A machine learning library that includes tools for classification, regression, clustering, and more.
+  **pandas**: A powerful data manipulation and analysis library that provides data structures like DataFrame to handle structured data.
+  **matplotlib**: A plotting library for creating static, animated, and interactive visualizations in Python.
